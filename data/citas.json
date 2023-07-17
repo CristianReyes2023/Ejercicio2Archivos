@@ -1,0 +1,57 @@
+{
+    "1": {
+        "Cita #": 1,
+        "Nombre": "JUAN",
+        "Fecha": "12-10-2023",
+        "Hora": "15:00",
+        "Motivo": "FRACTURA"
+    },
+    "2": {
+        "Cita #": 2,
+        "Nombre": "PEPE",
+        "Fecha": "12-10-2022",
+        "Hora": "11:00",
+        "Motivo": "DOLOR DE ABDOMINAL"
+    },
+    "3": {
+        "Nombre": "MATEITO",
+        "Fecha": "20-08-2023",
+        "Hora": "10:00",
+        "Motivo": "FIEBRE Y VOMITO"
+    },
+    "4": {
+        "Cita #": 4,
+        "Nombre": "1",
+        "Fecha": "09-10-2023",
+        "Hora": "03:00",
+        "Motivo": "Secreciones nasales"
+    },
+    "5": {
+        "Cita #": 5,
+        "Nombre": "1",
+        "Fecha": "12-10-2023",
+        "Hora": "08:00",
+        "Motivo": "DOLOR DE ABDOMINAL"
+    },
+    "6": {
+        "Cita #": 6,
+        "Nombre": "WILLY",
+        "Fecha": "15-08-2023",
+        "Hora": "04:00",
+        "Motivo": "Mordedura de serpiente"
+    },
+    "7": {
+        "Cita #": 7,
+        "Nombre": "PEPE",
+        "Fecha": "19-08-2023",
+        "Hora": "03:00",
+        "Motivo": "DOLOR DE ABDOMINAL"
+    },
+    "8": {
+        "Cita #": 8,
+        "Nombre": "JHONNY",
+        "Fecha": "18-08-2023",
+        "Hora": "06:00",
+        "Motivo": "FIEBRE Y VOMITO"
+    }
+}
